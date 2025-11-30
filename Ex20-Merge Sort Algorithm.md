@@ -69,6 +69,7 @@ public class MergeSort {
 */
 ```
 ## Output:
+
 <img width="625" height="287" alt="image" src="https://github.com/user-attachments/assets/8f462641-6e0a-4bf5-b2ea-95a7c6bb7762" />
 
 ## Result:
