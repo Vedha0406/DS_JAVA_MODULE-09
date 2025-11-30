@@ -70,6 +70,7 @@ public class MergeSort {
 ```
 ## Output:
 <img width="625" height="287" alt="image" src="https://github.com/user-attachments/assets/8f462641-6e0a-4bf5-b2ea-95a7c6bb7762" />
+
 ## Result:
 The program has been successfully implemented and executed.
 It sorts the given array of integers in ascending order using the Merge Sort algorithm with a time complexity of O(n log n) and minimal extra space.
